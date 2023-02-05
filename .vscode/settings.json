@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.cdm": "yaml",
+        "glad.h": "c",
+        "iostream": "cpp"
+    }
+}
